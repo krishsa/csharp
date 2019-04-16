@@ -1,0 +1,11 @@
+/Users/sarumu1/Documents/SPSA/krish/csharp/bin/Debug/netcoreapp2.2/csharp.deps.json
+/Users/sarumu1/Documents/SPSA/krish/csharp/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.json
+/Users/sarumu1/Documents/SPSA/krish/csharp/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.dev.json
+/Users/sarumu1/Documents/SPSA/krish/csharp/bin/Debug/netcoreapp2.2/csharp.dll
+/Users/sarumu1/Documents/SPSA/krish/csharp/bin/Debug/netcoreapp2.2/csharp.pdb
+/Users/sarumu1/Documents/SPSA/krish/csharp/obj/Debug/netcoreapp2.2/csharp.csprojAssemblyReference.cache
+/Users/sarumu1/Documents/SPSA/krish/csharp/obj/Debug/netcoreapp2.2/csharp.csproj.CoreCompileInputs.cache
+/Users/sarumu1/Documents/SPSA/krish/csharp/obj/Debug/netcoreapp2.2/csharp.AssemblyInfoInputs.cache
+/Users/sarumu1/Documents/SPSA/krish/csharp/obj/Debug/netcoreapp2.2/csharp.AssemblyInfo.cs
+/Users/sarumu1/Documents/SPSA/krish/csharp/obj/Debug/netcoreapp2.2/csharp.dll
+/Users/sarumu1/Documents/SPSA/krish/csharp/obj/Debug/netcoreapp2.2/csharp.pdb
